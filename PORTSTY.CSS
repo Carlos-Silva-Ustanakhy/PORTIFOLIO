@@ -1,0 +1,183 @@
+body {
+
+   background-color: black;
+   color: white;
+   
+}
+
+
+
+.profilephoto {
+
+   border-radius: 50%;
+   height: 250px;
+   width: 250px;
+   margin-left: 170px;
+   margin-top: 200px;
+}
+
+.profile {
+
+   height: 950px;
+   width: 30%;
+   background-color: #28282B;
+
+}
+
+
+
+
+
+.email {
+
+   text-decoration: none;
+   color: #f9004d;
+
+}
+
+.sobre {
+
+   color: white;
+   list-style: none;
+   text-decoration: none;
+   font-size: 30px;
+
+
+}
+
+.conhecimentosl {
+
+   color: white;
+   list-style: none;
+   text-decoration: none;
+   margin-left: 140px;
+   margin-top: 32px;
+   font-size: 30px;
+}
+
+.objetivos {
+
+   color: white;
+   list-style: none;
+   text-decoration: none;
+   font-size: 30px;
+
+}
+
+.sobrel {
+
+   margin-left: 200px;
+   list-style: none;
+
+}
+
+.conhecimentos {
+
+
+   list-style: none;
+   text-decoration: none;
+   margin-top: 20px;
+
+
+}
+
+.objetivosl {
+
+   margin-left: 170px;
+   margin-top: 50px;
+   list-style: none;
+
+}
+
+
+
+
+span {
+   color: #f9004d;
+
+
+}
+
+.name {
+
+   font-size: 60px;
+   margin-top: -900px;
+   margin-left: 600px;
+
+}
+
+h3 {
+
+   margin-left: 600px;
+   margin-top: -20px;
+   font-size: 30px;
+
+
+}
+
+h4{
+
+
+   margin-left: 600px;
+   margin-top: -10px;
+   font-size: 15px;
+
+
+
+}
+
+.insta {
+   border-radius: 50%;
+   height: 70px;
+   width: 70px;
+   margin-left: 600px;
+   margin-top: 100px;
+}
+
+.instagram{
+
+   background-color: #28282B;
+   height: 60px;
+   width: 60px;
+   }
+
+   .github{
+
+      border-radius: 50%;
+   height: 70px;
+   width: 70px;
+   margin-left: 800px;
+   margin-top: 46px;
+   }
+
+   .LISTANAOORDENADA{
+
+margin-top: 100px;
+
+
+
+   }
+
+   @media screen and (max-width: 768px){
+
+section, aside{
+
+width: 100%;
+padding: 0;
+
+}
+
+
+   }
+
+   .LISTAORDENADA{
+
+margin-left: 50px;
+
+   }
+
+   .GIT{  
+
+height: 1px;
+width: 1px;
+   }
